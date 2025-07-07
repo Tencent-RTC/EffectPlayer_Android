@@ -34,7 +34,7 @@
 
 #### 国际站
 
-- [功能概述]()
-- [集成指引]()
-- [常见问题]()
+- [功能概述](https://trtc.io/document/70595?platform=android&product=beautyar)
+- [集成指引](https://trtc.io/document/70531?platform=android&product=beautyar)
+- [常见问题](https://trtc.io/document/70544?platform=android&product=beautyar)
 

@@ -26,9 +26,10 @@ This project includes the Gift AR SDK Demo operation guide and SDK download.
 
 ## Integration Guide and Documentation
 
-- [Functional Overview]()
-- [Integration Guide]()
-- [FAQ]()
+- [Functional Overview](https://trtc.io/document/70595?platform=android&product=beautyar)
+- [Integration Guide](https://trtc.io/document/70537?platform=android&product=beautyar)
+- [FAQ](https://trtc.io/document/70544?platform=android&product=beautyar)
+
 
 ## Contact Us
 - Communication & Feedback   
@@ -36,5 +37,3 @@ This project includes the Gift AR SDK Demo operation guide and SDK download.
   Click to join: [https://t.me/+EPk6TMZEZMM5OGY1](https://t.me/+EPk6TMZEZMM5OGY1)   
   Or scan the QR code   
   <img src="https://qcloudimg.tencent-cloud.cn/raw/79cbfd13877704ff6e17f30de09002dd.jpg" width="300px">    
-
->>>>>>> 8e529c1 (add demo project)
